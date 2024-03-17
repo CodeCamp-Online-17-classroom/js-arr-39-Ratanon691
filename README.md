@@ -1,14 +1,14 @@
-# js-lab-124
-### Lab124 Array: array result10
+# js-lab-125
+### Lab125 Array: array result11
 ให้สร้าง array result ให้ได้ผลลัพธ์ตามเงื่อนไขที่กำหนด โดยใช้ arr.filter
 
 ```JavaScript
-const array = ['apple', 'banana', 'orange', 'pineapple', 'watermeon'];
-// ค่าที่มีตัวอักษรมากกว่า 6 ตัว
+const array = ['Elephant', 'Ant', 'Cat', 'Eagle', 'Zebra'];
+// ค่าที่ขึ้นต้นด้วยตัว E
 
-const array = [1, -3, 2, 8, -4, 5];
-// ค่าที่เป็นเลขบวก
+const array = ['APPLE', 'oRanGE', 'PEACH', 'PaPAYA'];
+// ค่าที่เป็นตัวพิมพ์ใหญ่ทั้งหมด
 
-const array = [1, 3, 4, 5, 6, 7, 8];
-// ค่าที่หาร 3 ลงตัว
+const array = ['Krabi', 'Chonburi', 'Buriram', 'Saraburi','Phrae'];
+// ค่าที่มีคำว่า buri เป็นส่วนประกอบโดยไม่สนใจตัวพิมพ์เล็กหรือตัวพิมพ์ใหญ่
 ```
